@@ -1,5 +1,5 @@
-Main	
-public static void Zoo() {
+// Main	
+	public static void Zoo() {
 		populateMyZoo();
 	}
 	public static void populateMyZoo() {
@@ -14,6 +14,4 @@ public static void Zoo() {
 		}
 		System.out.print(count);
 	}
-	
-
 }
